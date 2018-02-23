@@ -5,3 +5,4 @@ syntax on
 filetype plugin indent on
 colorscheme dark_eyes
 set cursorline
+set wildmode=list:longest,list
